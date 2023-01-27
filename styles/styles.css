@@ -1,0 +1,44 @@
+body {
+    padding: 13px 8.3% 90px;
+}
+
+
+.section-name{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.chapter{
+    margin-bottom: 70px;
+}
+
+.chapter:last-child{
+    margin-bottom: 0px;
+}
+
+.chapter-text{
+    margin-bottom: 40px;
+}
+.chapter-text:last-child{
+    margin-bottom: 0px;
+}
+
+li:hover{
+    cursor: grab;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+.underline-text{
+    text-decoration: underline;
+}
+
+.background-img{
+    
+}

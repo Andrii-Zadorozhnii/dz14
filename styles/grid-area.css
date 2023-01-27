@@ -1,0 +1,16 @@
+.grid-area{
+    display: grid;
+    grid-template-columns: 31% 67%;
+    column-gap: 2%;
+}
+
+.nav-bar_list{
+    position: sticky;
+    top: 0;
+}
+
+main{
+    margin-top: 70px;
+}
+
+

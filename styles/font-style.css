@@ -1,0 +1,35 @@
+.header-text{
+    font: 22px "Tourney-600";
+}
+
+.navigation{
+    font: 22px "Staatliches";
+}
+
+.section-header{
+    font: 36px "Francois-One-normal";
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.section-header-small-text{
+    font: 16px "Farro-300";
+    letter-spacing: 0.04em;
+    
+}
+
+.chapter-text{
+    font: 28px "PT-Sans-normal"
+}
+
+.italic-text{
+    font-style: italic;
+}
+
+.bold-text{
+    font-weight: bold ;
+}
+
+.bg--gray{
+    background-color: lightgray;
+}

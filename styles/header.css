@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-left:8.33%;
+    margin-right: 8.33%;
+    max-height: 80px;
+    height: 100%;
+    z-index: 1;
+}
+
+.text-slash{
+    margin: 0px 10px;
+}
+
+.navigation, .nav-bar-one{
+    display: flex;
+}
+
+.header-text{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 50px;
+}
