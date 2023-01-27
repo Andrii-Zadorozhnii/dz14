@@ -1,44 +1,51 @@
-body {
-    padding: 13px 8.3% 90px;
+html{
+    scroll-padding-top: 145px;
 }
 
 
-.section-name{
+body {
+    padding: 8px 8.3% 90px;
+    background-image: url(../images/bg-picture.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100% 150px;
+}
+
+
+.section-name {
     display: flex;
     margin-bottom: 40px;
 }
 
-.chapter{
+.chapter {
     margin-bottom: 70px;
 }
 
-.chapter:last-child{
+.chapter:last-child {
     margin-bottom: 0px;
 }
 
-.chapter-text{
+.chapter-text {
     margin-bottom: 40px;
 }
-.chapter-text:last-child{
+
+.chapter-text:last-child {
     margin-bottom: 0px;
 }
 
-li:hover{
+li:hover {
     cursor: grab;
 }
 
-a:link{
+a:link {
     color: black;
 }
 
-a:visited{
+a:visited {
     color: black;
 }
 
-.underline-text{
+.underline-text {
     text-decoration: underline;
 }
 
-.background-img{
-    
-}
